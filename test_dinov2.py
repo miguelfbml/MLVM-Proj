@@ -2,6 +2,9 @@
 """
 Evaluate trained DINOv2 retrieval model vs ImageNet ResNet-50 baseline.
 Uses P1 as prototypes and evaluates on P2 or P3.
+
+Usage:
+python test_dinov2.py --partition P3
 """
 
 import os

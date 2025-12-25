@@ -1,4 +1,8 @@
-"""working version"""
+"""ResNet version - Logo retrieval with batch-hard triplet mining"""
+"""
+Usage:
+python script_resnet.py
+"""
 
 import os
 import random

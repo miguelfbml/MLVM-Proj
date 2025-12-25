@@ -1,4 +1,8 @@
 """DINOv2 version - Logo retrieval with batch-hard triplet mining"""
+"""
+Usage:
+python script_dinov2.py
+"""
 
 import os
 import random

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-
-working version for script4.py
-test_final.py
 Test trained retrieval model vs ImageNet ResNet-50 baseline.
 Uses P1 as prototypes and evaluates on P2 or P3.
+
+Usage:
+python test_resnet.py --partition P3
 """
 
 import os
