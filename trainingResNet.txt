@@ -1,0 +1,11 @@
+Epoch 032 | Train Loss: 0.0009
+  Score: 5.6061 | Recall@1/5/10: {1: 1.0, 5: 1.0, 10: 1.0} | Precision@1/10/30: {1: 1.0, 10: 0.93, 30: 0.6761458333333332}
+✓ Saved best model.
+
+
+
+Epoch 052 | Train Loss: 0.0000
+  Score: 5.5630 | Recall@1/5/10: {1: 0.975, 5: 1.0, 10: 1.0} | Precision@1/10/30: {1: 0.975, 10: 0.9321875000000006, 30: 0.6808333333333332}
+
+⚠ Early stopping triggered after 52 epochs
+✓ Training complete. Plots and history saved.
